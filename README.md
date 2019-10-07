@@ -43,3 +43,15 @@ FACEBOOK_APP_ID: <your Facebook App ID>
 5. `$ rails db:{create,migrate}`
 6. Run test suite with `$ bundle exec rspec`
 7. Start a local server with `$ rails s` -- access Pink Flamingo in your browser or Postman at `localhost:3000`
+
+## Images:
+Home Page:
+![Home](/app/assets/images/homepage.png)
+
+Events Show Page:
+
+![Events](/app/assets/images/eventshowpage.png)
+
+User Profile Page:
+
+![User](/app/assets/images/usershow.png)
